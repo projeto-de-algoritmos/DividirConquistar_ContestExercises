@@ -18,25 +18,25 @@ Confira o enunciado do exercício []()
 
 - [Ir para solução](Solutions/golf_bot.cpp)
 
-### Exercício 2: [Dr. Evil Underscores](https://codeforces.com/problemset/problem/1285/D)
+### Exercício 2: []()
+
+
+Confira o enunciado do exercício [aqui]()
+
+- [Ir para solução]()
+### Exercício 3: [Dr. Evil Underscores](https://codeforces.com/problemset/problem/1285/D)
 
 
 Confira o enunciado do exercício [aqui](https://codeforces.com/problemset/problem/1285/D)
 
 - [Ir para solução](Solutions/Dr.EvilUnderscores.cpp)
-### Exercício 3: []()
+
+### Exercício 4: [a-Good String](https://codeforces.com/contest/1385/problem/D)
 
 
-Confira o enunciado do exercício [aqui]()
+Confira o enunciado do exercício [aqui](https://codeforces.com/contest/1385/problem/D)
 
-- [Ir para solução](Soluções/)
-
-### Exercício 4: []()
-
-
-Confira o enunciado do exercício [aqui]()
-
-- [Ir para solução](Soluções/)
+- [Ir para solução](Solutions/a-GoodString.cpp)
 
 
 ## Screenshots
@@ -50,8 +50,8 @@ Confira o enunciado do exercício [aqui]()
 ### Dr. Evil Underscores
 ![](Assets/Dr.EvilUnderscores.png)
 
-### Increase And Decrease
-![](Assets/)
+### a-Good String
+![](Assets/aGoodString.cpp.png)
 
 ## Instalação 
 Não é necessario instalação. As soluções podem ser submetidas nos sites: [AtCoder](https://atcoder.jp/) e [Codeforces](https://codeforces.com/).
