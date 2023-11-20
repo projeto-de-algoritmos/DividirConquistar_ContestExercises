@@ -1,45 +1,63 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios Online
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: <br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 21/1030729  |  Eric Rabelo Borges |
+| 19/0058455  |  Mariana Oliveira Pires do Rio |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto contém as resoluções de exercícios de Juiz Online que envolvem XXXXX. 
+
+### Exercício 1:  [Golf Bot](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4744)
+O exercício aborda a perspectiva de alguém que, inicialmente, expressa aversão ao golfe e decide criar um robô de golfe infalível. Contudo, o robô enfrenta desafios durante o jogo devido à limitação do botão seletor de distância embutido, que não contempla todas as opções necessárias. Agora, no campo de golfe, a pessoa busca determinar quantos buracos o robô pode completar em duas tacadas ou menos, enfrentando o desafio de otimizar o desempenho do robô diante das restrições, especialmente a falta de opções adequadas de distância.
+
+Confira o enunciado do exercício []()
+
+- [Ir para solução](Soluções/)
+
+### Exercício 2: []()
+
+
+Confira o enunciado do exercício [aqui]()
+
+- [Ir para solução](Soluções/)
+### Exercício 3: []()
+
+
+Confira o enunciado do exercício [aqui]()
+
+- [Ir para solução](Soluções/)
+
+### Exercício 4: []()
+
+
+Confira o enunciado do exercício [aqui]()
+
+- [Ir para solução](Soluções/)
+
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Beautiful Paintings
+![](Assets/)
+
+### Impartial Gift
+![](Assets/)
+
+### Smilo and Monsters
+![](Assets/)
+
+### Increase And Decrease
+![](Assets/)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Não é necessario instalação. As soluções podem ser submetidas nos sites: [AtCoder](https://atcoder.jp/) e [Codeforces](https://codeforces.com/).
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+**Linguagem**: C++<br>
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+## Apresentação
+Assista o vídeo explicativo do projeto clicando [aqui](/). <br>
+*Observação: A apresentação está em formato .mp4, portanto, faça o download para assisti-la.*
