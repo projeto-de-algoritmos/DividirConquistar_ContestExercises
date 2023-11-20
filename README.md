@@ -13,6 +13,7 @@ Este projeto contém as resoluções de exercícios de Juiz Online que envolvem 
 
 ### Exercício 1:  [Golf Bot](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4744)
 O exercício aborda a perspectiva de alguém que, inicialmente, expressa aversão ao golfe e decide criar um robô de golfe infalível. Contudo, o robô enfrenta desafios durante o jogo devido à limitação do botão seletor de distância embutido, que não contempla todas as opções necessárias. Agora, no campo de golfe, a pessoa busca determinar quantos buracos o robô pode completar em duas tacadas ou menos, enfrentando o desafio de otimizar o desempenho do robô diante das restrições, especialmente a falta de opções adequadas de distância.
+O exercicio foi resolvido usando FFT.
 
 Confira o enunciado do exercício []()
 
