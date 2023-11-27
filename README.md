@@ -65,5 +65,5 @@ Não é necessario instalação. As soluções podem ser submetidas nos sites: [
 **Linguagem**: C++<br>
 
 ## Apresentação
-Assista o vídeo explicativo do projeto clicando [aqui](/). <br>
+Assista o vídeo explicativo do projeto clicando [aqui](/Apresentação.mp4). <br>
 *Observação: A apresentação está em formato .mp4, portanto, faça o download para assisti-la.*
